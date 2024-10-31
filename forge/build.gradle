@@ -39,6 +39,11 @@ minecraft {
                     source project(":common").sourceSets.main
                 }
             }
+            args '--uuid', 'e2213f33-fec1-4c06-9215-8417667b45a1' // MY SKIN
+            args '--username=Mattias1509' // MY USERNAME
+
+
+
         }
 
         server {
