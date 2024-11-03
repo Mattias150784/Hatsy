@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/mattias/hatsy/mixin/MixinMinecraft": {
+      "<init>": "Lnet/minecraft/class_310;<init>(Lnet/minecraft/class_542;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/mattias/hatsy/mixin/MixinMinecraft": {
+        "<init>": "Lnet/minecraft/class_310;<init>(Lnet/minecraft/class_542;)V"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Specification-Title: Hatsy
+Specification-Vendor: Mattias15
+Specification-Version: 1.20.1-0.1
+Implementation-Title: common
+Implementation-Version: 1.20.1-0.1
+Implementation-Vendor: Mattias15
+Implementation-Timestamp: 2024-11-02T19:12:54-0700
+Timestamp: 1730599974413
+Built-On-Java: 21.0.4+7-LTS (Eclipse Adoptium)
+Built-On-Minecraft: 1.20.1
+
