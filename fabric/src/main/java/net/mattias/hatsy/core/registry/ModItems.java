@@ -20,7 +20,7 @@ public class ModItems {
     public static void register() {}
 
     public static final Item CHEF_HAT = registerItem("chef_hat", new ChefHatItem(ArmorMaterials.LEATHER, ArmorItem.Type.HELMET, new Item.Properties()));
-
+    public static final Item ASH_KETCHUM_HAT = registerItem("ash_ketchum_hat", new AshKetchumHatItem(ArmorMaterials.LEATHER, ArmorItem.Type.HELMET, new Item.Properties()));
     public static final Item LUFFY_HAT = registerItem("luffy_hat", new LuffyHatItem(ArmorMaterials.LEATHER, ArmorItem.Type.HELMET, new Item.Properties()));
     public static final Item TOP_HAT = registerItem("top_hat", new TopHatItem(ArmorMaterials.LEATHER, ArmorItem.Type.HELMET, new Item.Properties()));
     public static final Item WIZARD_HAT = registerItem("wizard_hat", new WizardHatItem(ArmorMaterials.LEATHER, ArmorItem.Type.HELMET, new Item.Properties()));
@@ -45,6 +45,7 @@ public class ModItems {
         output.accept(SANTA_HAT);
         output.accept(EAR_MUFFS);
         output.accept(SPINNY_HAT);
+        output.accept(ASH_KETCHUM_HAT);
         output.accept(ASTRONAUT_HAT);
         output.accept(PUMPKIN_HAT);
         output.accept(SHERLOCK_HOLMES_HAT);
